@@ -1,0 +1,6 @@
+google-api-python-client
+youtube-transcript-api
+openai
+sentence-transformers
+pytube
+ffmpeg-python
